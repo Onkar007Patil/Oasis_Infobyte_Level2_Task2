@@ -1,0 +1,47 @@
+header {
+    font-size: 10pt;
+    background-color: rgb(224, 146, 146);
+    text-align: center;
+    color: black;
+    padding: 15px;
+  }
+  body {
+    background-color: #374049;
+    color: #ffffff;
+    font-family: "Georgia", Georgia, serif;
+    text-align: justify;
+    border: 20px solid lightgray;
+  }
+  img {
+  display: block;
+  margin: auto;
+  width: 40%;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  }
+  .list-group-item{
+  background-color: #374049;
+  font-family: "Georgia", Georgia, serif;
+  text-align: justify;
+  border: 5px grooved lightgray;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+border-style: ;
+  }
+  
+  footer {
+   font-size: 10pt;
+    background-color:rgb(224, 146, 146);
+    text-align: center;
+    color: black;
+    padding: 15px;
+    
+   
+  }
+  
+  
+figure {text-align: center}
+
+figcaption{
+font-variant: small-caps
+}
